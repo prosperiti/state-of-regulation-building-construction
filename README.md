@@ -1,4 +1,4 @@
-# State-of-regulation/Building-and-construction
+# Repository for the State of Regulation Report
 The folder contains building regulations, judgements and circle rates used in Prosperiti's State of Regulation report.
 There are 3 folders:
 Raw Dataset: This dataset records building regulations across 11 Indian states and 5 Asian countries.
