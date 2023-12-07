@@ -6,6 +6,11 @@ Analysed Dataset: This dataset compares building standards for industrial buildi
 Case Catalogue: This dataset catalogues 31 judgements by the Supreme Court (SC) of India. These 31 judgements give insights into the scarcity created by building and land-use regulations.
 
 ## How to locate a specific document?
-<li> All documents have been placed housed within folders. </li>
-<li> All documents follow a strict naming convention: (document type_location code_name of the document_year). </li>
-<li> The file with the same name as the unique code is the government order you are looking for. </li>
+<li> Documents have been placed housed within folders, following a strict naming convention. </li>
+<li> The naming convention is as follows: document type_location code_name of the document_year. </li>
+<li> There are 4 document types: regulation, circlerate and judgements. <li>
+<li> The </strong> location code </strong> is tied to the location where the document is applicable. In the case of Indian states, a 2-letter code has been assigned to the studied states. In case of international standards, the entire name of the country has been used.<li>
+<li> The title of the document has been reproduced verbatim.<li> 
+<li> <li> 
+<li> <li> 
+<li> <li> 
