@@ -7,7 +7,7 @@ There are 3 folders:
 
 ## How to locate a specific document?
 Documents have been placed housed within folders, following a strict naming convention. </li>
-The naming convention is as follows: document type_location code_title of the document_year. </li>
+The naming convention is as follows: <i> document type_location code_title of the document_year. </i> </li>
 <li> The <i>document type</i> indicates what the document is, and where it has been housed.
   There are 6 document types: Regulations, judgements, circle rates, distance from city centre, jurisdiction and land use.
 <li> The <i> location code </i> is tied to the location where the document is applicable. In the case of Indian states, a 2-letter code has been assigned to the studied states. In the case of international standards, the entire name of the country has been used.
