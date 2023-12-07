@@ -8,7 +8,7 @@ Case Catalogue: This dataset catalogues 31 judgements by the Supreme Court (SC) 
 ## How to locate a specific document?
 <li> Documents have been placed housed within folders, following a strict naming convention. </li>
 <li> The naming convention is as follows: document type_location code_title of the document_year. </li>
-<lii> The <i>document type</i> indicates what the document is, and where it has been housed.
+<li> The <i>document type</i> indicates what the document is, and where it has been housed.
   There are 6 document types: Regulations, judgements, circle rates, distance from city centre, jurisdiction and land use.
-<lii> The <i> location code </i>i> is tied to the location where the document is applicable. In the case of Indian states, a 2-letter code has been assigned to the studied states. In the case of international standards, the entire name of the country has been used.
-<lii> The <i>title of the document</i> has been reproduced verbatim.
+<li> The <i> location code </i>i> is tied to the location where the document is applicable. In the case of Indian states, a 2-letter code has been assigned to the studied states. In the case of international standards, the entire name of the country has been used.
+<li> The <i>title of the document</i> has been reproduced verbatim.
