@@ -1,6 +1,6 @@
 # Repository for the State of Regulation Report 2023
 
-##About State of Regulation Report
+**##About State of Regulation Report**
 This report presents an inter-state comparison of restrictions on constructing industrial buildings and the cost of such restrictions. The report considers four building standards—ground coverage, setbacks, parking, and floor space index—across 10 states. States are then ranked on building restrictiveness for factories of different sizes based on these four standards. In addition, the report also estimates the unit-level opportunity cost of these standards in terms of the rupee value of land lost and the number of jobs lost.
 
 ##Constituents of the repository
