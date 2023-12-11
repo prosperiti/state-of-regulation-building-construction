@@ -15,4 +15,4 @@ The three datasets are:
 <li>Case catalogue of 31 construction-related disputes decided in the Supreme Court over the last 10 years
 
 ## Naming convention followed
-All documents are named using the following convention: <i>type of file_authority code_title of the document_year published/accessed </i>. There are 7 types of files: Regulations, judgements, circle rates, distance from city centre, jurisdiction, land use, and datasets. The authority code specifies either a short hand for the relevant state or the court.
+All documents are named using the following convention: <i>type of file_authority code_title of the document_year published/accessed </i>. There are 7 types of files: Regulations, judgements, circle rates, distance from city centre, jurisdiction, land use, and datasets. The authority code specifies a short hand for the relevant state or the court.
