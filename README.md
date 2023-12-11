@@ -1,7 +1,7 @@
 # Repository for the State of Regulation Report 2023
 
 ## About State of Regulation Report
-This report presents an inter-state comparison of restrictions on constructing industrial buildings and the cost of such restrictions. The report considers four building standards—ground coverage, setbacks, parking, and floor space index—across 10 states. States are then ranked on building restrictiveness for factories of different sizes based on these four standards. In addition, the report also estimates the unit-level opportunity cost of these standards in terms of the rupee value of land lost and the number of jobs lost.
+This report presents an inter-state comparison of restrictions on constructing industrial buildings and the cost of such restrictions. The report considers four building standards—ground coverage, setbacks, parking, and floor space index—across 10 states. States are then ranked on building restrictiveness for factories of different sizes based on average land lost to these four standards. In addition, the report also estimates the unit-level opportunity cost of these standards in terms of the rupee value of land lost and the number of jobs lost.
 
 ## Constituents of the repository
 This repository stores the source material for the report and three datasets.
@@ -13,6 +13,10 @@ The three datasets are:
 <li>Raw dataset that records standards as written in law.
 <li>Analysed dataset that records land lost and opportunity cost calculations for micro, small, medium, large, and mega factories.
 <li>Case catalogue of 31 construction-related disputes decided in the Supreme Court over the last 10 years
+
+## Document specifications
+### For source documents
+<li>The source documents are named using the following convention: <i>type of file_authority_title of the document_year published </i>.
 
 
 ## How to locate a specific document?
