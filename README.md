@@ -1,9 +1,19 @@
-# Repository for the State of Regulation Report
-The folder contains building regulations, judgements and circle rates used in Prosperiti's State of Regulation report.
-There are 3 folders:
-<li>Raw Dataset: This dataset records building regulations across 11 Indian states and 5 Asian countries.
-<li>Analysed Dataset: This dataset compares building standards for industrial buildings in different states of India. The dataset provides a competitive view of how 10 states and GoI's National Building Code fare on standard-setting in factories.
-<li>Case Catalogue: This dataset catalogues 31 judgements by the Supreme Court (SC) of India. These 31 judgements give insights into the scarcity created by building and land-use regulations.
+# Repository for the State of Regulation Report 2023
+
+##About State of Regulation Report
+This report presents an inter-state comparison of restrictions on constructing industrial buildings and the cost of such restrictions. The report considers four building standards—ground coverage, setbacks, parking, and floor space index—across 10 states. States are then ranked on building restrictiveness for factories of different sizes based on these four standards. In addition, the report also estimates the unit-level opportunity cost of these standards in terms of the rupee value of land lost and the number of jobs lost.
+
+##Constituents of the repository
+This repository stores the source material for the report and three datasets.
+
+The source material includes three types of documents: the regulations studied in the report (both Indian and international), the source files for circle rates used in the report, and the 31 Supreme Court judgements analysed in the report.
+
+The three datasets are:
+
+<li>Raw dataset that records standards as written in law.
+<li>Analysed dataset that records land lost and opportunity cost calculations for micro, small, medium, large, and mega factories.
+<li>Case catalogue of 31 construction-related disputes decided in the Supreme Court over the last 10 years
+
 
 ## How to locate a specific document?
 Documents have been placed housed within folders, following a strict naming convention. The naming convention is as follows: <i> document type_location code_title of the document_year. </i> </li>
