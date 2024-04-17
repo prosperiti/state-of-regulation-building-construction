@@ -16,5 +16,3 @@ The three datasets are:
 
 ## Naming convention followed
 All documents are named using the following convention: <i>type of file_authority code_title of the document_year published/accessed </i>. There are 7 types of files: Regulations, judgements, circle rates, distance from city centre, jurisdiction, land use, and datasets. The authority code specifies a short hand for the relevant state or the court.
-
-[hi](https://www.youtube.com/watch?v=uvTcd-VlM64)
