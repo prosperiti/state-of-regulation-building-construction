@@ -14,7 +14,7 @@ The three datasets are:
 <li>Analysed dataset that records land lost and opportunity cost calculations for micro, small, medium, large, and mega factories.
 <li>Case catalogue of 31 construction-related disputes decided in the Supreme Court over the last 10 years
 
-(Update) Researchers at Prosperiti tracked amendments to three regulations studied in the State of regulation report. The dataset recording the amendments has been uploaded as the fourth dataset in this repository. You can read more about the trends in amendments to building regulations across three states in this [article](). 
+(Update) Researchers at Prosperiti tracked amendments to three regulations studied in the State of regulation report. The dataset recording the amendments has been uploaded as the fourth dataset in this repository. You can read more about the trends in amendments to building regulations across three states in this [article](https://prosperiti.substack.com/p/24-trends-in-amendments-to-building). 
 
 
 ## Naming convention followed
